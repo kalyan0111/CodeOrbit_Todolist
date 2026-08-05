@@ -24,6 +24,7 @@ todo-list-app/
 ├── app.js            # DOM interaction, event handling, and state storage
 └── README.md         # Documentation
 ```
-## Live link:- https://kalyan0111.github.io/CodeOrbit_Todolist/ 
+** Live link:- https://kalyan0111.github.io/CodeOrbit_Todolist/ 
+
 <img width="1532" height="777" alt="image" src="https://github.com/user-attachments/assets/a5b08ffb-7690-45ad-89dd-2f07b4d2aeac" />
 
